@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+initial commit
+commit 2 in main branch
+=======
+new feature branch created
+>>>>>>> feature
